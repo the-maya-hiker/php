@@ -58,3 +58,6 @@ foreach文の実行結果のfが抜けて，oreach文の実行結果になって
 
 **p.93**  
 ereg関数はPHP 7で削除されたので，代わりにpreg_match関数を使う．パターン文字列は//で囲う．
+
+**p.93**  
+ereg_replace関数はPHP 7で削除されたので，代わりにpreg_replace関数を使う．パターン文字列は//で囲う．
