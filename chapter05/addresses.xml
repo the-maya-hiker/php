@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addresses>
+	<person>
+		<name>山田太郎</name>
+		<address>東京都○○○</address>
+		<tel>03-xxxx-xxxx</tel>
+	</person>
+	<person>
+		<name>佐藤花子</name>
+		<address>大阪府○○○</address>
+		<tel>06-xxxx-xxxx</tel>
+	</person>
+</addresses>
